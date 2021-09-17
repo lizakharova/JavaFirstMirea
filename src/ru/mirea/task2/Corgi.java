@@ -1,4 +1,4 @@
-package ru.mirea.task3;
+package ru.mirea.task2;
 
 class Corgi extends Dog {
     private String massa;
