@@ -1,4 +1,7 @@
-package ru.mirea.task2;
+package ru.mirea.task5;
+
+//import ru.mirea.task5.Corgi;
+//import ru.mirea.task5.Pug;
 
 public class TestDog {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package ru.mirea.task2;
+package ru.mirea.task5;
 
 public abstract class Dog {
     private String name;

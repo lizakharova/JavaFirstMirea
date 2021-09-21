@@ -1,4 +1,6 @@
-package ru.mirea.task2;
+package ru.mirea.task5;
+
+//import ru.mirea.task5.Dog;
 
 class Corgi extends Dog {
     private String massa;
