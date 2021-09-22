@@ -1,6 +1,4 @@
-package ru.mirea.task5;
-
-//import ru.mirea.task5.Dog;
+package ru.mirea.task5.dog;
 
 class Pug extends Dog {
     private String printt;
